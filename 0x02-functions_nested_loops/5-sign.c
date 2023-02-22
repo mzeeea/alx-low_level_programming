@@ -5,7 +5,7 @@
  *
  * @n: function parameter
  *
- * Return 1 if n is greater than zero
+ * Return: 1 if n is greater than zero
  * and 0 if n is equal to zero
  *  otherwise print -1
  */
