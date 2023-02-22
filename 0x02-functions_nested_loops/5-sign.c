@@ -5,7 +5,9 @@
  *
  * @n: function parameter
  *
- * Return 1, 0 and -1
+ * Return 1 if n is greater than zero
+ * and 0 if n is equal to zero
+ *  otherwise print -1
  */
 
 int print_sign(int n)
