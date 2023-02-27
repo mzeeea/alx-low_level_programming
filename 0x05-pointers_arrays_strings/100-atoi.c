@@ -12,7 +12,7 @@
 int _atoi(char *s)
 {
 	int c = 0;
-	unsigned int ni = o;
+	unsigned int ni = 0;
 	int min = 1;
 	int isi = 0;
 
@@ -20,7 +20,7 @@ int _atoi(char *s)
 	{
 	if (s[c] == 45)
 	{
-	min *= -i;
+	min *= -1;
 	}
 	while (s[c] >= 48 && s[c] <= 57)
 	{
